@@ -12,15 +12,15 @@ The libraries are listed in the file requirements.txt.
 - Platforms that started in the 80s persisted until 2016-2017.
 - The line chart was chosen to observe the platform's growth cycle.
 
-<img width="994" height="561" alt="image" src="https://github.com/user-attachments/assets/d5a8f3b2-e9b6-4d3e-81f0-f1d31496b13e" />
+<img width="998" height="574" alt="image" src="https://github.com/user-attachments/assets/da5b9059-8a43-4678-8b5a-c59e5374c0fe" />
 
 - The platform with the most outliers is DS, but it shows less variation (lower spread) within the data.
 - PS2 is the platform with the highest total sales, having a mean of approximately 0.25 million USD in total sales. Other platforms such as X360, PS3, and PS have similar means (around $0.25 million USD), but with a larger range (higher variability).
 - The platforms Wii, DS, GBA, and PS4 have average sales below $0.25 million USD.
 - It can be observed that the data distribution for each platform is positively skewed, with a tail to the right.
 - It can also be determined that the majority of sales for these platforms are concentrated in small amounts, rather than large amounts, as shown in the graphs.
-  
-<img width="842" height="463" alt="image" src="https://github.com/user-attachments/assets/b4ff659e-7916-4903-8019-e93d71be9fae" />
+
+<img width="1000" height="553" alt="image" src="https://github.com/user-attachments/assets/1c50645b-5bf4-40c6-9360-6da16bee160f" />
 
 Correlation on the Wii platform.
 - Correlation between sales and critic score: 0.17
@@ -29,7 +29,8 @@ Correlation on the Wii platform.
 - The correlation between sales and score for each is less than 0.2, which indicates a weak positive correlation between sales and the score.
 - The analysis could be improved if we remove the outliers from sales above approximately 20 to 90, to calculate a correlation based on the average of the sales data.
   
-<img width="862" height="416" alt="image" src="https://github.com/user-attachments/assets/65961401-3896-44a8-abf2-f5d2e7fdd1ca" />
+<img width="998" height="485" alt="image" src="https://github.com/user-attachments/assets/4de1431b-112d-496a-ae11-2233a5a658f9" />
+
 
 
 
