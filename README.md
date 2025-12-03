@@ -7,7 +7,7 @@ The libraries are listed in the file requirements.txt.
 ## Analysis
 - Platforms showed high sales around the year 2010 after being launched in 2005, as is the case with X360.
 - It subsequently experienced a decline, reaching its minimum in 2015.
-- The PS4 platform (assuming you meant PS4, which launched around 2013, as PS5 launched later), peaked around 2015, which is 2-3 years after its launch.
+- The PS4 platform (which launched around 2013, as PS5 launched later), peaked around 2015, which is 2-3 years after its launch.
 - Platforms that reached their peak sales did so after 2-3 years from their launch, followed by a dramatic decrease in sales.
 - Platforms that started in the 80s persisted until 2016-2017.
 - The line chart was chosen to observe the platform's growth cycle.
