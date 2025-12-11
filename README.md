@@ -2,7 +2,7 @@
 Identify patterns that determine whether a game is successful. This will enable you to detect promising projects and plan advertising campaigns.
 
 ## Technologies used
--Language: Python
+-Language: Python.
 -Key Libraries:
   - Pandas and NumPy: Data cleaning, transformation, and manipulation.
   - Matplotlib and Seaborn: Data visualization (trends, distributions, regional analysis).
