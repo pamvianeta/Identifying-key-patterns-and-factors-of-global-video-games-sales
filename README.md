@@ -1,5 +1,13 @@
 # Identifying key patterns and factors (platform, genre, rating, region and lifecycle) for video game sales
-Identify patterns that determine whether a game is successful. This will enable you to detect promising projects and plan advertising campaigns.
+
+This project applies rigorous data cleaning, exploratory analysis, and hypothesis testing techniques to demystify the true sales drivers in the global video game industry.
+
+## Brief Project Description
+Objective: To identify the key commercial success factors (platform, genre, rating, and lifecycle) that influence video game sales globally, thus informing strategic investment decisions.
+
+Problem Solved: The analysis addressed the problem of declining revenue in the video game industry post-2008. The project provided actionable insights into cultural consumption differences and the real impact of user/critic ratings on commercial performance.
+
+Main Achievement: I demonstrated that commercial success is not strongly correlated with perceived quality (user/critic ratings), but instead critically and statistically depends on underlying market factors such as the regionalization of genres (e.g., Role-Playing in JP vs. Action/Shooter in NA/EU) and the platform lifecycle (with sales peaking sharply at 2-3 years after launch).
 
 ## Technologies used
 -Language: Python.
