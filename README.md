@@ -1,4 +1,4 @@
-# Identifying key patterns and factors (platform, genre, rating, region and lifecycle) for video game sales
+# Identifying key patterns and factors (platform, genre, rating, region and lifecycle) of video game sales
 
 This project applies rigorous data cleaning, exploratory analysis, and hypothesis testing techniques to demystify the true sales drivers in the global video game industry.
 
